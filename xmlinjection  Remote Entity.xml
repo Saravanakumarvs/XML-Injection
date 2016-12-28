@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE a [<!ENTITY b SYSTEM "http://www.google.com/z.xml"> ]>
+<a>&b;</a>
